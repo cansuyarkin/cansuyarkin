@@ -1,4 +1,4 @@
-# Hello!!!
+# Hello, I'm Cansu!
 
 I am fresh graduate industrial engineer and front end developer.
 
