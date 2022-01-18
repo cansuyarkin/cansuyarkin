@@ -2,7 +2,7 @@
 
 <!-- ![](https://github.com/cansuyarkin/cansuyarkin/blob/main/images/giphy.gif) -->
 
-<img src="https://github.com/cansuyarkin/cansuyarkin/blob/main/images/giphy.gif" width="350">
+<img src="https://github.com/cansuyarkin/cansuyarkin/blob/main/images/giphy.gif" width="300">
 
 :mortar_board: Fresh Graduate Industrial Engineer & Front End Developer.
 
