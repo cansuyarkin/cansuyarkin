@@ -1,4 +1,4 @@
-# Hello, I'm Cansu!
+# Hello, I'm Cansu! :wave: :sunny:
 
 :mortar_board: Fresh Graduate Industrial Engineer & Front End Developer.
 
