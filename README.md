@@ -8,7 +8,7 @@
 
 👩‍💻 Currently learning JavaScript and React.
 
-:thought_balloon: If you have any question or feedback, please do not hesitate to reach out to me!
+#### :thought_balloon: If you have any question or feedback, please do not hesitate to reach out to me!
 
 ![snake svg](https://github.com/cansuyarkin/cansuyarkin/blob/output/github-contribution-grid-snake.svg)
 
