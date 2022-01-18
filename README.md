@@ -1,6 +1,8 @@
 # Hello, I'm Cansu! :wave:
 
-![](https://github.com/cansuyarkin/cansuyarkin/blob/main/images/giphy.gif)
+<!-- ![](https://github.com/cansuyarkin/cansuyarkin/blob/main/images/giphy.gif) -->
+
+<img src="https://github.com/cansuyarkin/cansuyarkin/blob/main/images/giphy.gif" width="350">
 
 :mortar_board: Fresh Graduate Industrial Engineer & Front End Developer.
 
