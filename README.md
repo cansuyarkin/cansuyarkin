@@ -1,5 +1,7 @@
 # Hello, I'm Cansu! :wave:
 
+![](https://github.com/cansuyarkin/cansuyarkin/blob/main/images/giphy.gif)
+
 :mortar_board: Fresh Graduate Industrial Engineer & Front End Developer.
 
 👩‍💻 Currently learning JavaScript and React.
