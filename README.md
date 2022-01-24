@@ -18,7 +18,8 @@
 
 <br>
 
-[![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@cansuyarkin)
+<!-- [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@cansuyarkin) -->
+
 [![linkedin](https://img.icons8.com/office/40/000000/linkedin.png)](https://www.linkedin.com/in/cansuyarkin1/) 
 [![twitter](https://img.icons8.com/office/40/000000/twitter.png)](https://twitter.com/cansuyarkin)
 
